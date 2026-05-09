@@ -18,7 +18,7 @@ $ pwd
 /Users/trenton/chatbot3
 
 # Clone the repository
-$ git clone https://github.com/coxtrent/chatHGPstartercode.git
+$ git clone https://github.com/coxtrent/chatHGP.git
 
 # Change directory
 $ cd chat
